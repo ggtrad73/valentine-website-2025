@@ -34,8 +34,8 @@ const CONFIG = {
         },
         third: {
             text: "will you be my fine shyt (valentine) on february 14th, 2026? 🌹🙏🦶", // The big question!
-            yesBtn: "HELL NO!",                                             // Text for "Yes" button
-            noBtn: "not me blushing YESSS"                                                 // Text for "No" button
+            yesBtn: "not me blushing YESSS",                                             // Text for "Yes" button
+            noBtn: "HELLL NO!"                                                 // Text for "No" button
         }
     },
 
